@@ -1,0 +1,44 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/Sulav/CLionProjects/AutoCompleteSystem_LeetCode#642/AutoCompleteSystem.cpp
+Trie.cpp
+C:/Users/Sulav/CLionProjects/AutoCompleteSystem_LeetCode#642/Trie.cpp
+vector
+-
+string
+-
+queue
+-
+
+C:/Users/Sulav/CLionProjects/AutoCompleteSystem_LeetCode#642/Result.cpp
+string
+-
+
+C:/Users/Sulav/CLionProjects/AutoCompleteSystem_LeetCode#642/Trie.cpp
+TrieNode.cpp
+C:/Users/Sulav/CLionProjects/AutoCompleteSystem_LeetCode#642/TrieNode.cpp
+Result.cpp
+C:/Users/Sulav/CLionProjects/AutoCompleteSystem_LeetCode#642/Result.cpp
+string
+-
+vector
+-
+
+C:/Users/Sulav/CLionProjects/AutoCompleteSystem_LeetCode#642/TrieNode.cpp
+vector
+-
+
+C:/Users/Sulav/CLionProjects/AutoCompleteSystem_LeetCode#642/main.cpp
+iostream
+-
+vector
+-
+AutoCompleteSystem.cpp
+C:/Users/Sulav/CLionProjects/AutoCompleteSystem_LeetCode#642/AutoCompleteSystem.cpp
+
